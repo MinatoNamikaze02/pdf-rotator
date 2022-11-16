@@ -1,7 +1,7 @@
-# pdf-rotator
+# Pdf-rotator
 A python REST api to rotate any page of a pdf. Internship test.
 
-# How to use.
+## How to use.
 - Install dependencies by running
     ```
     pip install -r requirements.txt
@@ -17,4 +17,5 @@ A python REST api to rotate any page of a pdf. Internship test.
 
 - NOTE: entering incorrect or invalid values will raise HTTP exceptions.
 
-# Demo
+## Demo
+![demo](https://github.com/MinatoNamikaze02/pdf-rotator/blob/main/demo/Screenshot%202022-11-16%20at%201.03.41%20PM.png)
